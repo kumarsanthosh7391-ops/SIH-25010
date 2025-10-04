@@ -99,9 +99,8 @@ Encourages rural communities to adopt digital tools, creating awareness and redu
 - Conserves water by suggesting irrigation only when required.  
 
 ### Diagram
-![alt text](indian-farmer.jpg)
+![alt text](logo.jpg)
 
- 
 ## Research and References
 - [World Bank – Digital Agriculture](https://www.worldbank.org/en/topic/agriculture/brief/digital-agriculture)  
 - [Indian Council of Agricultural Research (ICAR)](https://icar.org.in/)  
